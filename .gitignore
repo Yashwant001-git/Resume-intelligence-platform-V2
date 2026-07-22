@@ -1,0 +1,65 @@
+# -------------------------------
+# Python
+# -------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+
+# Python Cache
+.pytest_cache/
+.mypy_cache/
+
+# Logs
+logs/
+*.log
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Streamlit
+.streamlit/
+
+# SQLite
+*.db
+
+# FAISS
+*.faiss
+
+# Uploaded resumes
+backend/uploads/
+
+# Output files
+backend/output/
+
+# Excel
+*.xlsx
+
+# Models
+models/
+
+# Ollama cache
+.ollama/
+
+# Docker
+*.pid
+
+# Misc
+.cache/

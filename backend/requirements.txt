@@ -1,0 +1,39 @@
+# FastAPI
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Configuration
+pydantic
+pydantic-settings
+python-dotenv
+
+# Document Parsing
+docling
+pymupdf
+pdfplumber
+
+# OCR (Optional)
+pytesseract
+Pillow
+
+# NLP
+spacy
+rapidfuzz
+
+# HTTP Client (for Ollama)
+httpx
+
+# Data Processing
+numpy
+pandas
+openpyxl
+
+# Logging
+loguru
+
+# Testing
+pytest
+httpx
+
+ollama
